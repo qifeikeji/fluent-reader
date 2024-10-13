@@ -10,7 +10,7 @@
 </p>
 <hr />
 
-## Download
+## Download-2
 
 For Windows 10 users, the recommended way of installation is through [Microsoft Store](https://www.microsoft.com/store/apps/9P71FC94LRH8?cid=github). 
 This enables auto-update and experimental ARM64 support. 
